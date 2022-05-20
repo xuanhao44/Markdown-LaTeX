@@ -1,4 +1,4 @@
-# $LaTeX$ 公式
+# $\LaTeX$ 公式
 
 ## 1 数学模式和文本模式
 
@@ -506,6 +506,7 @@ $$
 |   phi    |  $\Phi$   | $\phi$ 或 $\varphi$ | \phi 或 \varphi |
 |    pi    |   $\Pi$   |        $\pi$        |       \pi       |
 |   psi    |  $\Psi$   |       $\psi$        |      \psi       |
+|  ksi(?)  |   $\Xi$   |        $\xi$        |       \xi       |
 
 #### 3.1.3 希伯来字母
 
@@ -1026,7 +1027,6 @@ a \times b = b \times a
 $$
 
 **gather*** 环境：
-
 $$
 \begin{gather*}
 3+5 = 5+3 = 8 \\
